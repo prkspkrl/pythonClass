@@ -1,0 +1,2 @@
+S.N.,Traded Companies,No. Of Transaction,Max Price,Min Price,Closing Price,Traded Shares,Amount,Previous Closing,Difference Rs.
+1,10% Prime Debenture 2088,5,853,836,853,100,84075,832.3,20.70                                           
